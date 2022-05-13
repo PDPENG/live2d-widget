@@ -17,7 +17,7 @@ Add Live2D widget to web page. Compatible with PJAX.
 
 ## 示例 Demo
 
-在[米米的博客](https://zhangshuqiao.org)的左下角可查看效果。（注：以下人物模型仅供展示之用，本仓库并不包含任何模型。）
+在[杰森的博客](https://pdpeng.github.io)的左下角关闭导航栏可查看效果。（注：以下人物模型仅供展示之用，本仓库并不包含任何模型。）
 
 <img src="assets/screenshot-2.png" width="280"><img src="assets/screenshot-3.png" width="280"><img src="assets/screenshot-1.png" width="270">
 
