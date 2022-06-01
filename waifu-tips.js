@@ -26,7 +26,9 @@ function loadWidget(config) {
 				<span class="fa fa-lg fa-user-circle"></span>
 				<span class="fa fa-lg fa-street-view"></span>
 				<span class="fa fa-lg fa-camera-retro"></span>
-				<span class="fa fa-lg fa-info-circle"></span>
+				<a href="https://github.com/PDPENG/live2d-widget>
+					<span class="fa fa-lg fa-info-circle"></span>
+				</a>
 				<span class="fa fa-lg fa-times"></span>
 			</div>
 		</div>`);
